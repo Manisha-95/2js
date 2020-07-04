@@ -1,0 +1,8 @@
+{
+  "name": "js-q6gxbe",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
